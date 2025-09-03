@@ -1,6 +1,6 @@
 package Ders05;
 
-public class Mt03_Deyer_donduren_natural {
+public class Mt_proje01_natural {
     public static boolean natural(int num) {
 
         for (int i = 2; i < num; i++) {
